@@ -1,5 +1,5 @@
 # Hays-MCFC-Hackathon-2023-CaiRob
-Repository for CaiRob team's project for the Hays x MCFC Hackathon 2023
+Repository for team 2ndOpinion (formally team CaiRob) project for the Hays x MCFC Hackathon 2023
 
 Includes an small example of how to transoform some of the data provided into more digestible chuncks for the app. 
 
